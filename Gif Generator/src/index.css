@@ -1,0 +1,15 @@
+/* Reset CSS */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Simple dark theme */
+  body {
+    background-color: #1f1f1f;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    
+  }
+  
